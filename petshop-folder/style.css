@@ -1,0 +1,79 @@
+.intro {
+    text-align: center;
+    background-image: url(lying-cat.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 1250px;
+    background-position: center;
+    color: white;
+    
+}
+
+.petshop {
+    text-transform: capitalize;
+    color: orange;
+    font-family: sans-serif;
+    text-size-adjust: bold;
+}
+
+button {
+    align-content: center;
+    background-color: orange;
+    padding: 10px 20px;
+    border: none
+}
+input {
+    align-content: center;
+    padding: 10px 20px;
+    border: none
+}
+
+.about {
+    color: orange;
+    text-align: center;
+    margin-top: 10%;
+}
+nav{
+    background-color: black;
+    color: white;
+    width: 180px;
+
+}
+a {
+    color: white;
+    padding-left: 200px;
+    text-decoration: none;
+}
+
+.Choose {
+    font-family: sans-serif;
+    color: orange;
+    text-align: center;
+    margin-top: 10%;
+}
+.horiontal-container {
+    display: flex;
+    justify-content: space-around; /*adjusts the spacing between sections*/
+    align-items: center;
+}
+.horizontal-section {
+    display: vertically;
+    margin: 10px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    box-shadow:orange;
+}
+body {
+    background-color: black;
+    color: white;
+}
+.login2 {
+    text-align: center;
+    background-image: url(ginuea-pig.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 1250px;
+    background-position: center;
+    color: white;
+}
